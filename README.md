@@ -30,7 +30,7 @@ Python Developer
 </p>
 
 Python:
-- [Итоговая работа по модулю ООП и работа с API](https://github.com/Kvisl/test_form)
+- [Итоговая работа по модулю ООП и работа с API](https://github.com/Kvisl/Work)
 
 SQL(postgres):
 - [Итоговая работа по модулю Базы данных](https://github.com/Kvisl/botTG)
